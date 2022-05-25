@@ -15,7 +15,7 @@ OOP graphics collision based 2ds space shooter. Created winter of 2022.
 
 ![Cars] (https://github.com/sophiek1/programming-portfolio/blob/gh-pages/images/Screen%20Shot%202022-05-25%20at%2012.12.02%20PM.png?raw=true)
 
-[Source code for Cars]((https://github.com/sophiek1/programming-portfolio/files/8773551/cars.zip)
+[Source code for Cars](https://github.com/sophiek1/programming-portfolio/files/8773551/cars.zip)
 )
 ## Calculator
 OOP graphics collision based 2ds space shooter. Created winter of 2022.
