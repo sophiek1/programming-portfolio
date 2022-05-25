@@ -20,7 +20,7 @@ OOP graphics collision based 2ds space shooter. Created winter of 2022.
 ## Calculator
 OOP graphics collision based 2ds space shooter. Created winter of 2022.
 
-![Calculator] ()
+![Calculator] (https://github.com/sophiek1/programming-portfolio/blob/gh-pages/images/Screen%20Shot%202022-05-25%20at%2012.17.57%20PM.png?raw=true)
 
 [Source code for Calculator](https://github.com/sophiek1/programming-portfolio/files/8773602/Calculator.2.zip)
 
