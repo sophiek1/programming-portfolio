@@ -28,7 +28,7 @@
 
 ## 99 Bottles
 
-![99Bottles](Screen Shot 2022-05-25 at 11.50.54 AM.png](https://github.com/sophiek1/programming-portfolio/blob/gh-pages/images/Screen%20Shot%202022-05-25%20at%2011.50.54%20AM.png?raw=true))
+![99Bottles]([Screen Shot 2022-05-25 at 11.50.54 AM.png](https://github.com/sophiek1/programming-portfolio/blob/gh-pages/images/Screen%20Shot%202022-05-25%20at%2011.50.54%20AM.png?raw=true))](https://github.com/sophiek1/programming-portfolio/blob/gh-pages/images/Screen%20Shot%202022-05-25%20at%2011.50.54%20AM.png?raw=true)
 
 
 [Source code for 99Bottles](https://replit.com/@SOPHIEKOLB/99Bottles#Main.java)
